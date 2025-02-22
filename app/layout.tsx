@@ -3,7 +3,7 @@ import { Roboto, Roboto_Mono } from "next/font/google";
 import "./globals.css";
 
 // Replace "Geist" with Roboto, and "Geist_Mono" with Roboto_Mono
-const robotoSans = Roboto({
+const roboto = Roboto({
   variable: "--font-roboto",
   subsets: ["latin"],
   weight: ["100", "300","400", "500","700", "900"],
