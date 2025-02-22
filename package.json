@@ -8,7 +8,7 @@
     "start": "NODE_ENV=production node server.js"
   },
   "dependencies": {
-    "@magenta/music": "^1.24.0",
+    "@magenta/music": "latest",
     "express": "^4.18.2",
     "next": "13.x",
     "react": "18.x",
