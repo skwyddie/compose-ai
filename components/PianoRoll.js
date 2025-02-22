@@ -1,7 +1,9 @@
+"use client";
+
 // components/PianoRoll.js
 import React, { useState, useEffect } from 'react';
 import io from 'socket.io-client';
-import * as Tone from 'tone';
+import Tone from 'tone';
 import { getChordProgression } from '../lib/aiMusic';
 
 const NUM_STEPS = 16;
