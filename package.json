@@ -10,7 +10,7 @@
   "dependencies": {
     "@magenta/music": "latest",
     "express": "^4.18.2",
-    "next": "13.x",
+    "next": "latest",
     "react": "18.x",
     "react-dom": "18.x",
     "socket.io": "^4.5.4",
